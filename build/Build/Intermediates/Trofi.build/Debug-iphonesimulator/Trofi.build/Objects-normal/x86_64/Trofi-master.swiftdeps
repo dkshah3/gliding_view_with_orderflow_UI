@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "d12a4fa4cd3fe2f3ffe7915756233dc0"
+build_time: [1538154449, 238048000]
+inputs:
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi Beta/Trofi/models/Vendors.swift": [1503268341, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi Beta/Trofi/Controllers/ViewController.swift": [1503423268, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi Beta/Trofi/Controllers/MainTableViewController.swift": [1503513326, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi Beta/Trofi/Controllers/TimerController2.swift": [1500924051, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi Beta/Trofi/views/MapViewController.swift": [1502820783, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi Beta/Trofi/Controllers/TimerController.swift": [1500922365, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi Beta/Trofi/views/DemoCell.swift": [1503514884, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi Beta/Trofi/supporting/DGRunkeeperSwitch.swift": [1503414504, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi Beta/Trofi/AppDelegate.swift": [1503518365, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi Beta/Pods/FoldingCell/FoldingCell/FoldingCell/FoldingCell/FoldingCell.swift": [1503513326, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi Beta/Trofi/Controllers/FoodViewController.swift": [1503520825, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi Beta/Trofi/supporting/FlippingLabel.swift": [1502816549, 0]

@@ -1,0 +1,577 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GlidingLayoutDelegate"
+- "GlidingLayout"
+provides-nominal:
+- "17GlidingCollection0A14LayoutDelegateP"
+- "17GlidingCollection0A6LayoutC"
+provides-member:
+- ["17GlidingCollection0A14LayoutDelegateP", ""]
+- ["17GlidingCollection0A6LayoutC", ""]
+provides-dynamic-lookup:
+- "layoutAttributesForElements"
+- "shouldInvalidateLayout"
+- "targetContentOffset"
+depends-top-level:
+- !private "&&"
+- !private "*"
+- !private "+"
+- !private "-"
+- !private "/"
+- !private ">"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- !private "CGAffineTransform"
+- !private "CGFloat"
+- "CGPoint"
+- "CGRect"
+- !private "GlidingConfig"
+- "GlidingLayout"
+- "GlidingLayoutDelegate"
+- "TernaryPrecedence"
+- "UICollectionViewFlowLayout"
+- "UICollectionViewLayoutAttributes"
+- !private "abs"
+- !private "ceil"
+- !private "floor"
+- !private "max"
+- !private "min"
+- !private "round"
+depends-member:
+- !private ["Sa", "map"]
+- !private ["s23BidirectionalCollectionP", "map"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "cellForItem"]
+- !private ["So15CALayerDelegateP", "contentOffset"]
+- !private ["So15CALayerDelegateP", "contentView"]
+- !private ["So15CALayerDelegateP", "transform"]
+- !private ["So15CALayerDelegateP", "viewWithTag"]
+- !private ["SC17CGAffineTransformV", "init"]
+- !private ["SC7CGPointV", "x"]
+- !private ["SC6CGRectV", "origin"]
+- !private ["SC6CGRectV", "width"]
+- !private ["SC6CGSizeV", "width"]
+- !private ["s7CVarArgP", "CGAffineTransform"]
+- !private ["s7CVarArgP", "GlidingConfig"]
+- !private ["s7CVarArgP", "abs"]
+- !private ["s7CVarArgP", "ceil"]
+- !private ["s7CVarArgP", "cellForItem"]
+- !private ["s7CVarArgP", "collectionView"]
+- !private ["s7CVarArgP", "contentOffset"]
+- !private ["s7CVarArgP", "contentView"]
+- !private ["s7CVarArgP", "delegate"]
+- !private ["s7CVarArgP", "floor"]
+- !private ["s7CVarArgP", "frame"]
+- !private ["s7CVarArgP", "indexPath"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "itemSize"]
+- !private ["s7CVarArgP", "layoutAttributesForElements"]
+- !private ["s7CVarArgP", "map"]
+- !private ["s7CVarArgP", "max"]
+- !private ["s7CVarArgP", "min"]
+- !private ["s7CVarArgP", "minimumLineSpacing"]
+- !private ["s7CVarArgP", "round"]
+- !private ["s7CVarArgP", "sectionInset"]
+- !private ["s7CVarArgP", "transform"]
+- !private ["s7CVarArgP", "transformLayoutAttributes"]
+- !private ["s7CVarArgP", "viewWithTag"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "CGAffineTransform"]
+- !private ["s28CustomDebugStringConvertibleP", "GlidingConfig"]
+- !private ["s28CustomDebugStringConvertibleP", "abs"]
+- !private ["s28CustomDebugStringConvertibleP", "ceil"]
+- !private ["s28CustomDebugStringConvertibleP", "cellForItem"]
+- !private ["s28CustomDebugStringConvertibleP", "collectionView"]
+- !private ["s28CustomDebugStringConvertibleP", "contentOffset"]
+- !private ["s28CustomDebugStringConvertibleP", "contentView"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- !private ["s28CustomDebugStringConvertibleP", "floor"]
+- !private ["s28CustomDebugStringConvertibleP", "frame"]
+- !private ["s28CustomDebugStringConvertibleP", "indexPath"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "itemSize"]
+- !private ["s28CustomDebugStringConvertibleP", "layoutAttributesForElements"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "max"]
+- !private ["s28CustomDebugStringConvertibleP", "min"]
+- !private ["s28CustomDebugStringConvertibleP", "minimumLineSpacing"]
+- !private ["s28CustomDebugStringConvertibleP", "origin"]
+- !private ["s28CustomDebugStringConvertibleP", "round"]
+- !private ["s28CustomDebugStringConvertibleP", "sectionInset"]
+- !private ["s28CustomDebugStringConvertibleP", "transform"]
+- !private ["s28CustomDebugStringConvertibleP", "transformLayoutAttributes"]
+- !private ["s28CustomDebugStringConvertibleP", "viewWithTag"]
+- !private ["s28CustomDebugStringConvertibleP", "width"]
+- !private ["s28CustomDebugStringConvertibleP", "x"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "origin"]
+- !private ["s29CustomPlaygroundQuickLookableP", "width"]
+- !private ["s29CustomPlaygroundQuickLookableP", "x"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s17CustomReflectableP", "origin"]
+- !private ["s17CustomReflectableP", "width"]
+- !private ["s17CustomReflectableP", "x"]
+- !private ["s23CustomStringConvertibleP", "CGAffineTransform"]
+- !private ["s23CustomStringConvertibleP", "GlidingConfig"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "abs"]
+- !private ["s23CustomStringConvertibleP", "ceil"]
+- !private ["s23CustomStringConvertibleP", "cellForItem"]
+- !private ["s23CustomStringConvertibleP", "collectionView"]
+- !private ["s23CustomStringConvertibleP", "contentOffset"]
+- !private ["s23CustomStringConvertibleP", "contentView"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- !private ["s23CustomStringConvertibleP", "floor"]
+- !private ["s23CustomStringConvertibleP", "frame"]
+- !private ["s23CustomStringConvertibleP", "indexPath"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "itemSize"]
+- !private ["s23CustomStringConvertibleP", "layoutAttributesForElements"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "max"]
+- !private ["s23CustomStringConvertibleP", "min"]
+- !private ["s23CustomStringConvertibleP", "minimumLineSpacing"]
+- !private ["s23CustomStringConvertibleP", "round"]
+- !private ["s23CustomStringConvertibleP", "sectionInset"]
+- !private ["s23CustomStringConvertibleP", "transform"]
+- !private ["s23CustomStringConvertibleP", "transformLayoutAttributes"]
+- !private ["s23CustomStringConvertibleP", "viewWithTag"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "map"]
+- !private ["s9DecodableP", "origin"]
+- !private ["s9DecodableP", "width"]
+- !private ["s9DecodableP", "x"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "map"]
+- !private ["s9EncodableP", "origin"]
+- !private ["s9EncodableP", "width"]
+- !private ["s9EncodableP", "x"]
+- !private ["s9EquatableP", "CGAffineTransform"]
+- !private ["s9EquatableP", "GlidingConfig"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "abs"]
+- !private ["s9EquatableP", "ceil"]
+- !private ["s9EquatableP", "cellForItem"]
+- !private ["s9EquatableP", "collectionView"]
+- !private ["s9EquatableP", "contentOffset"]
+- !private ["s9EquatableP", "contentView"]
+- !private ["s9EquatableP", "delegate"]
+- !private ["s9EquatableP", "floor"]
+- !private ["s9EquatableP", "frame"]
+- !private ["s9EquatableP", "indexPath"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "itemSize"]
+- !private ["s9EquatableP", "layoutAttributesForElements"]
+- !private ["s9EquatableP", "left"]
+- !private ["s9EquatableP", "max"]
+- !private ["s9EquatableP", "min"]
+- !private ["s9EquatableP", "minimumLineSpacing"]
+- !private ["s9EquatableP", "origin"]
+- !private ["s9EquatableP", "round"]
+- !private ["s9EquatableP", "sectionInset"]
+- !private ["s9EquatableP", "transform"]
+- !private ["s9EquatableP", "transformLayoutAttributes"]
+- !private ["s9EquatableP", "viewWithTag"]
+- !private ["s9EquatableP", "width"]
+- !private ["s9EquatableP", "x"]
+- ["s9EquatableP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["17GlidingCollection0A6ConfigV", "isParallaxEnabled"]
+- !private ["17GlidingCollection0A6ConfigV", "shared"]
+- ["17GlidingCollection0A6LayoutC", "Bool"]
+- !private ["17GlidingCollection0A6LayoutC", "CGAffineTransform"]
+- !private ["17GlidingCollection0A6LayoutC", "CGFloat"]
+- ["17GlidingCollection0A6LayoutC", "CGPoint"]
+- ["17GlidingCollection0A6LayoutC", "CGRect"]
+- !private ["17GlidingCollection0A6LayoutC", "GlidingConfig"]
+- ["17GlidingCollection0A6LayoutC", "GlidingLayoutDelegate"]
+- ["17GlidingCollection0A6LayoutC", "UICollectionViewLayoutAttributes"]
+- !private ["17GlidingCollection0A6LayoutC", "abs"]
+- !private ["17GlidingCollection0A6LayoutC", "ceil"]
+- !private ["17GlidingCollection0A6LayoutC", "collectionView"]
+- ["17GlidingCollection0A6LayoutC", "deinit"]
+- ["17GlidingCollection0A6LayoutC", "delegate"]
+- !private ["17GlidingCollection0A6LayoutC", "floor"]
+- ["17GlidingCollection0A6LayoutC", "init"]
+- !private ["17GlidingCollection0A6LayoutC", "itemSize"]
+- ["17GlidingCollection0A6LayoutC", "layoutAttributesForElements"]
+- !private ["17GlidingCollection0A6LayoutC", "max"]
+- !private ["17GlidingCollection0A6LayoutC", "min"]
+- !private ["17GlidingCollection0A6LayoutC", "minimumLineSpacing"]
+- !private ["17GlidingCollection0A6LayoutC", "round"]
+- !private ["17GlidingCollection0A6LayoutC", "sectionInset"]
+- ["17GlidingCollection0A6LayoutC", "shouldInvalidateLayout"]
+- ["17GlidingCollection0A6LayoutC", "targetContentOffset"]
+- !private ["17GlidingCollection0A6LayoutC", "transformLayoutAttributes"]
+- ["17GlidingCollection0A14LayoutDelegateP", "collectionViewDidScroll"]
+- !private ["s8HashableP", "CGAffineTransform"]
+- !private ["s8HashableP", "GlidingConfig"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "abs"]
+- !private ["s8HashableP", "ceil"]
+- !private ["s8HashableP", "cellForItem"]
+- !private ["s8HashableP", "collectionView"]
+- !private ["s8HashableP", "contentOffset"]
+- !private ["s8HashableP", "contentView"]
+- !private ["s8HashableP", "delegate"]
+- !private ["s8HashableP", "floor"]
+- !private ["s8HashableP", "frame"]
+- !private ["s8HashableP", "indexPath"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "itemSize"]
+- !private ["s8HashableP", "layoutAttributesForElements"]
+- !private ["s8HashableP", "max"]
+- !private ["s8HashableP", "min"]
+- !private ["s8HashableP", "minimumLineSpacing"]
+- !private ["s8HashableP", "round"]
+- !private ["s8HashableP", "sectionInset"]
+- !private ["s8HashableP", "transform"]
+- !private ["s8HashableP", "transformLayoutAttributes"]
+- !private ["s8HashableP", "viewWithTag"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s17MutableCollectionP", "map"]
+- !private ["So8NSCodingP", "CGAffineTransform"]
+- !private ["So8NSCodingP", "GlidingConfig"]
+- !private ["So8NSCodingP", "abs"]
+- !private ["So8NSCodingP", "ceil"]
+- !private ["So8NSCodingP", "cellForItem"]
+- !private ["So8NSCodingP", "collectionView"]
+- !private ["So8NSCodingP", "contentOffset"]
+- !private ["So8NSCodingP", "contentView"]
+- !private ["So8NSCodingP", "delegate"]
+- !private ["So8NSCodingP", "floor"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "itemSize"]
+- !private ["So8NSCodingP", "layoutAttributesForElements"]
+- !private ["So8NSCodingP", "max"]
+- !private ["So8NSCodingP", "min"]
+- !private ["So8NSCodingP", "minimumLineSpacing"]
+- !private ["So8NSCodingP", "round"]
+- !private ["So8NSCodingP", "sectionInset"]
+- !private ["So8NSCodingP", "transform"]
+- !private ["So8NSCodingP", "transformLayoutAttributes"]
+- !private ["So8NSCodingP", "viewWithTag"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "frame"]
+- !private ["So9NSCopyingP", "indexPath"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "CGAffineTransform"]
+- !private ["So8NSObjectC", "CGFloat"]
+- ["So8NSObjectC", "CGPoint"]
+- ["So8NSObjectC", "CGRect"]
+- !private ["So8NSObjectC", "GlidingConfig"]
+- ["So8NSObjectC", "GlidingLayoutDelegate"]
+- ["So8NSObjectC", "UICollectionViewLayoutAttributes"]
+- !private ["So8NSObjectC", "abs"]
+- !private ["So8NSObjectC", "ceil"]
+- !private ["So8NSObjectC", "cellForItem"]
+- !private ["So8NSObjectC", "collectionView"]
+- !private ["So8NSObjectC", "contentOffset"]
+- !private ["So8NSObjectC", "contentView"]
+- ["So8NSObjectC", "delegate"]
+- !private ["So8NSObjectC", "floor"]
+- !private ["So8NSObjectC", "frame"]
+- !private ["So8NSObjectC", "indexPath"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "itemSize"]
+- ["So8NSObjectC", "layoutAttributesForElements"]
+- !private ["So8NSObjectC", "max"]
+- !private ["So8NSObjectC", "min"]
+- !private ["So8NSObjectC", "minimumLineSpacing"]
+- !private ["So8NSObjectC", "round"]
+- !private ["So8NSObjectC", "sectionInset"]
+- ["So8NSObjectC", "shouldInvalidateLayout"]
+- ["So8NSObjectC", "targetContentOffset"]
+- !private ["So8NSObjectC", "transform"]
+- ["So8NSObjectC", "transformLayoutAttributes"]
+- !private ["So8NSObjectC", "viewWithTag"]
+- !private ["So16NSObjectProtocolP", "CGAffineTransform"]
+- !private ["So16NSObjectProtocolP", "GlidingConfig"]
+- !private ["So16NSObjectProtocolP", "abs"]
+- !private ["So16NSObjectProtocolP", "ceil"]
+- !private ["So16NSObjectProtocolP", "cellForItem"]
+- !private ["So16NSObjectProtocolP", "collectionView"]
+- !private ["So16NSObjectProtocolP", "contentOffset"]
+- !private ["So16NSObjectProtocolP", "contentView"]
+- !private ["So16NSObjectProtocolP", "delegate"]
+- !private ["So16NSObjectProtocolP", "floor"]
+- !private ["So16NSObjectProtocolP", "frame"]
+- !private ["So16NSObjectProtocolP", "indexPath"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "itemSize"]
+- !private ["So16NSObjectProtocolP", "layoutAttributesForElements"]
+- !private ["So16NSObjectProtocolP", "max"]
+- !private ["So16NSObjectProtocolP", "min"]
+- !private ["So16NSObjectProtocolP", "minimumLineSpacing"]
+- !private ["So16NSObjectProtocolP", "round"]
+- !private ["So16NSObjectProtocolP", "sectionInset"]
+- !private ["So16NSObjectProtocolP", "transform"]
+- !private ["So16NSObjectProtocolP", "transformLayoutAttributes"]
+- !private ["So16NSObjectProtocolP", "viewWithTag"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["s22RandomAccessCollectionP", "map"]
+- !private ["s26RangeReplaceableCollectionP", "map"]
+- !private ["s8SequenceP", "map"]
+- !private ["So29UIAccessibilityIdentificationP", "cellForItem"]
+- !private ["So29UIAccessibilityIdentificationP", "contentOffset"]
+- !private ["So29UIAccessibilityIdentificationP", "contentView"]
+- !private ["So29UIAccessibilityIdentificationP", "transform"]
+- !private ["So29UIAccessibilityIdentificationP", "viewWithTag"]
+- !private ["So12UIAppearanceP", "cellForItem"]
+- !private ["So12UIAppearanceP", "contentOffset"]
+- !private ["So12UIAppearanceP", "contentView"]
+- !private ["So12UIAppearanceP", "transform"]
+- !private ["So12UIAppearanceP", "viewWithTag"]
+- !private ["So21UIAppearanceContainerP", "cellForItem"]
+- !private ["So21UIAppearanceContainerP", "contentOffset"]
+- !private ["So21UIAppearanceContainerP", "contentView"]
+- !private ["So21UIAppearanceContainerP", "transform"]
+- !private ["So21UIAppearanceContainerP", "viewWithTag"]
+- !private ["So24UICollectionReusableViewC", "contentView"]
+- !private ["So16UICollectionViewC", "cellForItem"]
+- !private ["So16UICollectionViewC", "contentOffset"]
+- !private ["So20UICollectionViewCellC", "contentView"]
+- ["So26UICollectionViewFlowLayoutC", "Bool"]
+- !private ["So26UICollectionViewFlowLayoutC", "CGAffineTransform"]
+- !private ["So26UICollectionViewFlowLayoutC", "CGFloat"]
+- ["So26UICollectionViewFlowLayoutC", "CGPoint"]
+- ["So26UICollectionViewFlowLayoutC", "CGRect"]
+- !private ["So26UICollectionViewFlowLayoutC", "GlidingConfig"]
+- ["So26UICollectionViewFlowLayoutC", "GlidingLayoutDelegate"]
+- ["So26UICollectionViewFlowLayoutC", "UICollectionViewLayoutAttributes"]
+- !private ["So26UICollectionViewFlowLayoutC", "abs"]
+- !private ["So26UICollectionViewFlowLayoutC", "ceil"]
+- !private ["So26UICollectionViewFlowLayoutC", "collectionView"]
+- ["So26UICollectionViewFlowLayoutC", "delegate"]
+- !private ["So26UICollectionViewFlowLayoutC", "floor"]
+- ["So26UICollectionViewFlowLayoutC", "init"]
+- !private ["So26UICollectionViewFlowLayoutC", "itemSize"]
+- ["So26UICollectionViewFlowLayoutC", "layoutAttributesForElements"]
+- !private ["So26UICollectionViewFlowLayoutC", "max"]
+- !private ["So26UICollectionViewFlowLayoutC", "min"]
+- !private ["So26UICollectionViewFlowLayoutC", "minimumLineSpacing"]
+- !private ["So26UICollectionViewFlowLayoutC", "round"]
+- !private ["So26UICollectionViewFlowLayoutC", "sectionInset"]
+- ["So26UICollectionViewFlowLayoutC", "shouldInvalidateLayout"]
+- ["So26UICollectionViewFlowLayoutC", "targetContentOffset"]
+- ["So26UICollectionViewFlowLayoutC", "transformLayoutAttributes"]
+- ["So26UICollectionViewFlowLayoutC", ""]
+- ["So22UICollectionViewLayoutC", "Bool"]
+- !private ["So22UICollectionViewLayoutC", "CGAffineTransform"]
+- !private ["So22UICollectionViewLayoutC", "CGFloat"]
+- ["So22UICollectionViewLayoutC", "CGPoint"]
+- ["So22UICollectionViewLayoutC", "CGRect"]
+- !private ["So22UICollectionViewLayoutC", "GlidingConfig"]
+- ["So22UICollectionViewLayoutC", "GlidingLayoutDelegate"]
+- ["So22UICollectionViewLayoutC", "UICollectionViewLayoutAttributes"]
+- !private ["So22UICollectionViewLayoutC", "abs"]
+- !private ["So22UICollectionViewLayoutC", "ceil"]
+- !private ["So22UICollectionViewLayoutC", "collectionView"]
+- ["So22UICollectionViewLayoutC", "delegate"]
+- !private ["So22UICollectionViewLayoutC", "floor"]
+- ["So22UICollectionViewLayoutC", "init"]
+- !private ["So22UICollectionViewLayoutC", "itemSize"]
+- ["So22UICollectionViewLayoutC", "layoutAttributesForElements"]
+- !private ["So22UICollectionViewLayoutC", "max"]
+- !private ["So22UICollectionViewLayoutC", "min"]
+- !private ["So22UICollectionViewLayoutC", "minimumLineSpacing"]
+- !private ["So22UICollectionViewLayoutC", "round"]
+- !private ["So22UICollectionViewLayoutC", "sectionInset"]
+- ["So22UICollectionViewLayoutC", "shouldInvalidateLayout"]
+- ["So22UICollectionViewLayoutC", "targetContentOffset"]
+- ["So22UICollectionViewLayoutC", "transformLayoutAttributes"]
+- !private ["So32UICollectionViewLayoutAttributesC", "frame"]
+- !private ["So32UICollectionViewLayoutAttributesC", "indexPath"]
+- !private ["So17UICoordinateSpaceP", "cellForItem"]
+- !private ["So17UICoordinateSpaceP", "contentOffset"]
+- !private ["So17UICoordinateSpaceP", "contentView"]
+- !private ["So17UICoordinateSpaceP", "transform"]
+- !private ["So17UICoordinateSpaceP", "viewWithTag"]
+- !private ["So23UIDataSourceTranslatingP", "cellForItem"]
+- !private ["So23UIDataSourceTranslatingP", "contentOffset"]
+- !private ["So13UIDynamicItemP", "cellForItem"]
+- !private ["So13UIDynamicItemP", "contentOffset"]
+- !private ["So13UIDynamicItemP", "contentView"]
+- !private ["So13UIDynamicItemP", "frame"]
+- !private ["So13UIDynamicItemP", "indexPath"]
+- !private ["So13UIDynamicItemP", "transform"]
+- !private ["So13UIDynamicItemP", "viewWithTag"]
+- !private ["SC12UIEdgeInsetsV", "left"]
+- !private ["So18UIFocusEnvironmentP", "cellForItem"]
+- !private ["So18UIFocusEnvironmentP", "contentOffset"]
+- !private ["So18UIFocusEnvironmentP", "contentView"]
+- !private ["So18UIFocusEnvironmentP", "transform"]
+- !private ["So18UIFocusEnvironmentP", "viewWithTag"]
+- !private ["So11UIFocusItemP", "cellForItem"]
+- !private ["So11UIFocusItemP", "contentOffset"]
+- !private ["So11UIFocusItemP", "contentView"]
+- !private ["So11UIFocusItemP", "transform"]
+- !private ["So11UIFocusItemP", "viewWithTag"]
+- !private ["So30UIPasteConfigurationSupportingP", "cellForItem"]
+- !private ["So30UIPasteConfigurationSupportingP", "contentOffset"]
+- !private ["So30UIPasteConfigurationSupportingP", "contentView"]
+- !private ["So30UIPasteConfigurationSupportingP", "transform"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewWithTag"]
+- !private ["So11UIResponderC", "cellForItem"]
+- !private ["So11UIResponderC", "contentOffset"]
+- !private ["So11UIResponderC", "contentView"]
+- !private ["So11UIResponderC", "transform"]
+- !private ["So11UIResponderC", "viewWithTag"]
+- !private ["So30UIResponderStandardEditActionsP", "cellForItem"]
+- !private ["So30UIResponderStandardEditActionsP", "contentOffset"]
+- !private ["So30UIResponderStandardEditActionsP", "contentView"]
+- !private ["So30UIResponderStandardEditActionsP", "transform"]
+- !private ["So30UIResponderStandardEditActionsP", "viewWithTag"]
+- !private ["So12UIScrollViewC", "cellForItem"]
+- !private ["So12UIScrollViewC", "contentOffset"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "cellForItem"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "contentOffset"]
+- !private ["So18UITraitEnvironmentP", "cellForItem"]
+- !private ["So18UITraitEnvironmentP", "contentOffset"]
+- !private ["So18UITraitEnvironmentP", "contentView"]
+- !private ["So18UITraitEnvironmentP", "transform"]
+- !private ["So18UITraitEnvironmentP", "viewWithTag"]
+- !private ["So6UIViewC", "cellForItem"]
+- !private ["So6UIViewC", "contentOffset"]
+- !private ["So6UIViewC", "contentView"]
+- !private ["So6UIViewC", "transform"]
+- !private ["So6UIViewC", "viewWithTag"]
+- !private ["s14_ArrayProtocolP", "map"]
+- !private ["s23_BidirectionalIndexableP", "map"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "cellForItem"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "contentOffset"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "contentView"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "transform"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "viewWithTag"]
+- !private ["s24_DestructorSafeContainerP", "map"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s10_IndexableP", "map"]
+- !private ["s14_IndexableBaseP", "map"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGAffineTransform"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "GlidingConfig"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "abs"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ceil"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cellForItem"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "collectionView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "contentOffset"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "contentView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "floor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "frame"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "indexPath"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "itemSize"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layoutAttributesForElements"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "max"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "min"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "minimumLineSpacing"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "round"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sectionInset"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "transform"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "transformLayoutAttributes"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewWithTag"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s17_MutableIndexableP", "map"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "left"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+- !private ["s21_ObjectiveCBridgeableP", "origin"]
+- !private ["s21_ObjectiveCBridgeableP", "width"]
+- !private ["s21_ObjectiveCBridgeableP", "x"]
+- !private ["s22_RandomAccessIndexableP", "map"]
+- !private ["s26_RangeReplaceableIndexableP", "map"]
+depends-nominal:
+- !private "Sa"
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- !private "SC17CGAffineTransformV"
+- !private "SC7CGPointV"
+- !private "SC6CGRectV"
+- !private "SC6CGSizeV"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "17GlidingCollection0A6ConfigV"
+- "17GlidingCollection0A6LayoutC"
+- "17GlidingCollection0A14LayoutDelegateP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s17MutableCollectionP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So24UICollectionReusableViewC"
+- !private "So16UICollectionViewC"
+- !private "So20UICollectionViewCellC"
+- "So26UICollectionViewFlowLayoutC"
+- "So22UICollectionViewLayoutC"
+- !private "So32UICollectionViewLayoutAttributesC"
+- !private "So17UICoordinateSpaceP"
+- !private "So23UIDataSourceTranslatingP"
+- !private "So13UIDynamicItemP"
+- !private "SC12UIEdgeInsetsV"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So12UIScrollViewC"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- !private "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- !private "s14_ArrayProtocolP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- !private "s26_RangeReplaceableIndexableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi Beta/Pods/Target Support Files/GlidingCollection/GlidingCollection-umbrella.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi Beta/build/Build/Intermediates/Pods.build/Debug-iphonesimulator/GlidingCollection.build/unextended-module.modulemap"
+interface-hash: "bcd2933cbfc77e5408a5bb07b5f64b74"

@@ -1,0 +1,10 @@
+framework module GlidingCollection {
+  umbrella header "GlidingCollection-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module GlidingCollection.__Swift {
+    exclude header "GlidingCollection-Swift.h"
+}

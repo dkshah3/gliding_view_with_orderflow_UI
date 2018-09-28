@@ -1,0 +1,196 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GlidingConfig"
+provides-nominal:
+- "17GlidingCollection0A6ConfigV"
+provides-member:
+- ["17GlidingCollection0A6ConfigV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "*"
+- "BooleanLiteralType"
+- "CGFloat"
+- "CGSize"
+- "Double"
+- "Float"
+- "FloatLiteralType"
+- "GlidingConfig"
+- "IntegerLiteralType"
+- "UIColor"
+- "UIEdgeInsets"
+- "UIFont"
+- "UIScreen"
+- "round"
+depends-member:
+- ["SC6CGRectV", "height"]
+- ["SC6CGRectV", "width"]
+- ["SC6CGSizeV", "init"]
+- ["s7CVarArgP", "black"]
+- ["s7CVarArgP", "bounds"]
+- ["s7CVarArgP", "darkGray"]
+- ["s7CVarArgP", "lightGray"]
+- ["s7CVarArgP", "main"]
+- ["s7CVarArgP", "systemFont"]
+- ["s28CustomDebugStringConvertibleP", "black"]
+- ["s28CustomDebugStringConvertibleP", "bounds"]
+- ["s28CustomDebugStringConvertibleP", "darkGray"]
+- ["s28CustomDebugStringConvertibleP", "height"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "lightGray"]
+- ["s28CustomDebugStringConvertibleP", "main"]
+- ["s28CustomDebugStringConvertibleP", "systemFont"]
+- ["s28CustomDebugStringConvertibleP", "width"]
+- ["s29CustomPlaygroundQuickLookableP", "height"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "width"]
+- ["s17CustomReflectableP", "height"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "width"]
+- ["s23CustomStringConvertibleP", "black"]
+- ["s23CustomStringConvertibleP", "bounds"]
+- ["s23CustomStringConvertibleP", "darkGray"]
+- ["s23CustomStringConvertibleP", "lightGray"]
+- ["s23CustomStringConvertibleP", "main"]
+- ["s23CustomStringConvertibleP", "systemFont"]
+- ["s9DecodableP", "height"]
+- ["s9DecodableP", "init"]
+- ["s9DecodableP", "width"]
+- ["s9EncodableP", "height"]
+- ["s9EncodableP", "init"]
+- ["s9EncodableP", "width"]
+- ["s9EquatableP", "black"]
+- ["s9EquatableP", "bounds"]
+- ["s9EquatableP", "darkGray"]
+- ["s9EquatableP", "height"]
+- ["s9EquatableP", "init"]
+- ["s9EquatableP", "lightGray"]
+- ["s9EquatableP", "main"]
+- ["s9EquatableP", "systemFont"]
+- ["s9EquatableP", "width"]
+- ["17GlidingCollection0A6ConfigV", "CGFloat"]
+- ["17GlidingCollection0A6ConfigV", "CGSize"]
+- ["17GlidingCollection0A6ConfigV", "Double"]
+- ["17GlidingCollection0A6ConfigV", "Float"]
+- ["17GlidingCollection0A6ConfigV", "GlidingConfig"]
+- ["17GlidingCollection0A6ConfigV", "UIColor"]
+- ["17GlidingCollection0A6ConfigV", "UIEdgeInsets"]
+- ["17GlidingCollection0A6ConfigV", "UIFont"]
+- ["17GlidingCollection0A6ConfigV", "UIScreen"]
+- ["17GlidingCollection0A6ConfigV", "activeButtonColor"]
+- ["17GlidingCollection0A6ConfigV", "animationDuration"]
+- ["17GlidingCollection0A6ConfigV", "buttonsFont"]
+- ["17GlidingCollection0A6ConfigV", "buttonsScaleFactor"]
+- ["17GlidingCollection0A6ConfigV", "buttonsSpacing"]
+- ["17GlidingCollection0A6ConfigV", "cardShadowColor"]
+- ["17GlidingCollection0A6ConfigV", "cardShadowOffset"]
+- ["17GlidingCollection0A6ConfigV", "cardShadowOpacity"]
+- ["17GlidingCollection0A6ConfigV", "cardShadowRadius"]
+- ["17GlidingCollection0A6ConfigV", "cardsSize"]
+- ["17GlidingCollection0A6ConfigV", "cardsSpacing"]
+- ["17GlidingCollection0A6ConfigV", "inactiveButtonsColor"]
+- ["17GlidingCollection0A6ConfigV", "init"]
+- ["17GlidingCollection0A6ConfigV", "isParallaxEnabled"]
+- ["17GlidingCollection0A6ConfigV", "round"]
+- ["17GlidingCollection0A6ConfigV", "shared"]
+- ["17GlidingCollection0A6ConfigV", "sideInsets"]
+- ["s8HashableP", "black"]
+- ["s8HashableP", "bounds"]
+- ["s8HashableP", "darkGray"]
+- ["s8HashableP", "lightGray"]
+- ["s8HashableP", "main"]
+- ["s8HashableP", "systemFont"]
+- ["So8NSCodingP", "black"]
+- ["So8NSCodingP", "darkGray"]
+- ["So8NSCodingP", "lightGray"]
+- ["So9NSCopyingP", "black"]
+- ["So9NSCopyingP", "darkGray"]
+- ["So9NSCopyingP", "lightGray"]
+- ["So9NSCopyingP", "systemFont"]
+- ["So21NSItemProviderReadingP", "black"]
+- ["So21NSItemProviderReadingP", "darkGray"]
+- ["So21NSItemProviderReadingP", "lightGray"]
+- ["So21NSItemProviderWritingP", "black"]
+- ["So21NSItemProviderWritingP", "darkGray"]
+- ["So21NSItemProviderWritingP", "lightGray"]
+- ["So8NSObjectC", "black"]
+- ["So8NSObjectC", "bounds"]
+- ["So8NSObjectC", "darkGray"]
+- ["So8NSObjectC", "lightGray"]
+- ["So8NSObjectC", "main"]
+- ["So8NSObjectC", "systemFont"]
+- ["So16NSObjectProtocolP", "black"]
+- ["So16NSObjectProtocolP", "bounds"]
+- ["So16NSObjectProtocolP", "darkGray"]
+- ["So16NSObjectProtocolP", "lightGray"]
+- ["So16NSObjectProtocolP", "main"]
+- ["So16NSObjectProtocolP", "systemFont"]
+- ["So14NSSecureCodingP", "black"]
+- ["So14NSSecureCodingP", "darkGray"]
+- ["So14NSSecureCodingP", "lightGray"]
+- ["So7UIColorC", "black"]
+- ["So7UIColorC", "darkGray"]
+- ["So7UIColorC", "lightGray"]
+- ["SC12UIEdgeInsetsV", "init"]
+- ["So6UIFontC", "systemFont"]
+- ["So8UIScreenC", "bounds"]
+- ["So8UIScreenC", "main"]
+- ["So18UITraitEnvironmentP", "bounds"]
+- ["So18UITraitEnvironmentP", "main"]
+- ["s26_ExpressibleByColorLiteralP", "black"]
+- ["s26_ExpressibleByColorLiteralP", "darkGray"]
+- ["s26_ExpressibleByColorLiteralP", "lightGray"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "black"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "bounds"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "darkGray"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "lightGray"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "systemFont"]
+- ["s21_ObjectiveCBridgeableP", "height"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "width"]
+depends-nominal:
+- "SC6CGRectV"
+- "SC6CGSizeV"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- "17GlidingCollection0A6ConfigV"
+- "s8HashableP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So14NSSecureCodingP"
+- "So7UIColorC"
+- "SC12UIEdgeInsetsV"
+- "So6UIFontC"
+- "So8UIScreenC"
+- "So18UITraitEnvironmentP"
+- "s26_ExpressibleByColorLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi Beta/Pods/Target Support Files/GlidingCollection/GlidingCollection-umbrella.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi Beta/build/Build/Intermediates/Pods.build/Debug-iphonesimulator/GlidingCollection.build/unextended-module.modulemap"
+interface-hash: "0e446c9755e927531b5aeacfca7b8ba7"

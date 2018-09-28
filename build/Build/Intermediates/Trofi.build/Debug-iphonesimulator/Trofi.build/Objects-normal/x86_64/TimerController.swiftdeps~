@@ -1,0 +1,645 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ClockUILabel"
+provides-nominal:
+- "C5Trofi12ClockUILabel"
+provides-member:
+- ["C5Trofi12ClockUILabel", ""]
+provides-dynamic-lookup:
+- "awakeFromNib"
+- "create60SecsTimer"
+- "dateFormatter"
+- "initializeClock"
+- "updateLabel"
+depends-top-level:
+- !private "-"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "Calendar"
+- "ClockUILabel"
+- !private "Date"
+- "DateFormatter"
+- !private "StringLiteralType"
+- !private "TimeInterval"
+- !private "Timer"
+- "UILabel"
+- "Void"
+depends-member:
+- !private ["Ps16AbsoluteValuable", "init"]
+- !private ["Ps9AnyObject", "Calendar"]
+- !private ["Ps9AnyObject", "Date"]
+- ["Ps9AnyObject", "DateFormatter"]
+- !private ["Ps9AnyObject", "TimeInterval"]
+- !private ["Ps9AnyObject", "Timer"]
+- !private ["Ps9AnyObject", "awakeFromNib"]
+- !private ["Ps9AnyObject", "create60SecsTimer"]
+- !private ["Ps9AnyObject", "dateFormat"]
+- !private ["Ps9AnyObject", "dateFormatter"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "initializeClock"]
+- !private ["Ps9AnyObject", "scheduledTimer"]
+- !private ["Ps9AnyObject", "string"]
+- !private ["Ps9AnyObject", "text"]
+- !private ["Ps9AnyObject", "updateLabel"]
+- ["Ps9AnyObject", ""]
+- !private ["Ps19BinaryFloatingPoint", "init"]
+- !private ["PSo15CALayerDelegate", "Calendar"]
+- !private ["PSo15CALayerDelegate", "Date"]
+- ["PSo15CALayerDelegate", "DateFormatter"]
+- !private ["PSo15CALayerDelegate", "TimeInterval"]
+- !private ["PSo15CALayerDelegate", "Timer"]
+- !private ["PSo15CALayerDelegate", "awakeFromNib"]
+- !private ["PSo15CALayerDelegate", "create60SecsTimer"]
+- !private ["PSo15CALayerDelegate", "dateFormatter"]
+- !private ["PSo15CALayerDelegate", "init"]
+- !private ["PSo15CALayerDelegate", "initializeClock"]
+- !private ["PSo15CALayerDelegate", "text"]
+- !private ["PSo15CALayerDelegate", "updateLabel"]
+- ["PSo15CALayerDelegate", ""]
+- !private ["Ps7CVarArg", "Calendar"]
+- !private ["Ps7CVarArg", "Date"]
+- ["Ps7CVarArg", "DateFormatter"]
+- !private ["Ps7CVarArg", "TimeInterval"]
+- !private ["Ps7CVarArg", "Timer"]
+- !private ["Ps7CVarArg", "awakeFromNib"]
+- !private ["Ps7CVarArg", "create60SecsTimer"]
+- !private ["Ps7CVarArg", "dateFormat"]
+- !private ["Ps7CVarArg", "dateFormatter"]
+- ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "initializeClock"]
+- !private ["Ps7CVarArg", "scheduledTimer"]
+- !private ["Ps7CVarArg", "string"]
+- !private ["Ps7CVarArg", "text"]
+- !private ["Ps7CVarArg", "updateLabel"]
+- ["Ps7CVarArg", ""]
+- !private ["V10Foundation8Calendar", "component"]
+- !private ["V10Foundation8Calendar", "current"]
+- !private ["C5Trofi12ClockUILabel", "Calendar"]
+- !private ["C5Trofi12ClockUILabel", "Date"]
+- ["C5Trofi12ClockUILabel", "DateFormatter"]
+- !private ["C5Trofi12ClockUILabel", "TimeInterval"]
+- !private ["C5Trofi12ClockUILabel", "Timer"]
+- ["C5Trofi12ClockUILabel", "Void"]
+- ["C5Trofi12ClockUILabel", "awakeFromNib"]
+- ["C5Trofi12ClockUILabel", "create60SecsTimer"]
+- ["C5Trofi12ClockUILabel", "dateFormatter"]
+- ["C5Trofi12ClockUILabel", "deinit"]
+- ["C5Trofi12ClockUILabel", "init"]
+- ["C5Trofi12ClockUILabel", "initializeClock"]
+- !private ["C5Trofi12ClockUILabel", "text"]
+- ["C5Trofi12ClockUILabel", "updateLabel"]
+- !private ["Ps10Comparable", "init"]
+- !private ["OV10Foundation8Calendar9Component", "second"]
+- !private ["Ps28CustomDebugStringConvertible", "Calendar"]
+- !private ["Ps28CustomDebugStringConvertible", "Date"]
+- ["Ps28CustomDebugStringConvertible", "DateFormatter"]
+- !private ["Ps28CustomDebugStringConvertible", "TimeInterval"]
+- !private ["Ps28CustomDebugStringConvertible", "Timer"]
+- !private ["Ps28CustomDebugStringConvertible", "awakeFromNib"]
+- !private ["Ps28CustomDebugStringConvertible", "component"]
+- !private ["Ps28CustomDebugStringConvertible", "create60SecsTimer"]
+- !private ["Ps28CustomDebugStringConvertible", "current"]
+- !private ["Ps28CustomDebugStringConvertible", "dateFormat"]
+- !private ["Ps28CustomDebugStringConvertible", "dateFormatter"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "initializeClock"]
+- !private ["Ps28CustomDebugStringConvertible", "scheduledTimer"]
+- !private ["Ps28CustomDebugStringConvertible", "string"]
+- !private ["Ps28CustomDebugStringConvertible", "text"]
+- !private ["Ps28CustomDebugStringConvertible", "updateLabel"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "component"]
+- !private ["Ps17CustomReflectable", "current"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "Calendar"]
+- !private ["Ps23CustomStringConvertible", "Date"]
+- ["Ps23CustomStringConvertible", "DateFormatter"]
+- !private ["Ps23CustomStringConvertible", "TimeInterval"]
+- !private ["Ps23CustomStringConvertible", "Timer"]
+- !private ["Ps23CustomStringConvertible", "awakeFromNib"]
+- !private ["Ps23CustomStringConvertible", "component"]
+- !private ["Ps23CustomStringConvertible", "create60SecsTimer"]
+- !private ["Ps23CustomStringConvertible", "current"]
+- !private ["Ps23CustomStringConvertible", "dateFormat"]
+- !private ["Ps23CustomStringConvertible", "dateFormatter"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "initializeClock"]
+- !private ["Ps23CustomStringConvertible", "scheduledTimer"]
+- !private ["Ps23CustomStringConvertible", "string"]
+- !private ["Ps23CustomStringConvertible", "text"]
+- !private ["Ps23CustomStringConvertible", "updateLabel"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["V10Foundation4Date", "init"]
+- !private ["CSo13DateFormatter", "dateFormat"]
+- ["CSo13DateFormatter", "init"]
+- !private ["CSo13DateFormatter", "string"]
+- !private ["Sd", "init"]
+- !private ["Ps9Equatable", "Calendar"]
+- !private ["Ps9Equatable", "Date"]
+- ["Ps9Equatable", "DateFormatter"]
+- !private ["Ps9Equatable", "TimeInterval"]
+- !private ["Ps9Equatable", "Timer"]
+- !private ["Ps9Equatable", "awakeFromNib"]
+- !private ["Ps9Equatable", "component"]
+- !private ["Ps9Equatable", "create60SecsTimer"]
+- !private ["Ps9Equatable", "current"]
+- !private ["Ps9Equatable", "dateFormat"]
+- !private ["Ps9Equatable", "dateFormatter"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "initializeClock"]
+- !private ["Ps9Equatable", "scheduledTimer"]
+- !private ["Ps9Equatable", "second"]
+- !private ["Ps9Equatable", "string"]
+- !private ["Ps9Equatable", "text"]
+- !private ["Ps9Equatable", "updateLabel"]
+- ["Ps9Equatable", ""]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps25ExpressibleByFloatLiteral", "init"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps13FloatingPoint", "init"]
+- !private ["CSo9Formatter", "dateFormat"]
+- ["CSo9Formatter", "init"]
+- !private ["CSo9Formatter", "string"]
+- !private ["Ps8Hashable", "Calendar"]
+- !private ["Ps8Hashable", "Date"]
+- ["Ps8Hashable", "DateFormatter"]
+- !private ["Ps8Hashable", "TimeInterval"]
+- !private ["Ps8Hashable", "Timer"]
+- !private ["Ps8Hashable", "awakeFromNib"]
+- !private ["Ps8Hashable", "component"]
+- !private ["Ps8Hashable", "create60SecsTimer"]
+- !private ["Ps8Hashable", "current"]
+- !private ["Ps8Hashable", "dateFormat"]
+- !private ["Ps8Hashable", "dateFormatter"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "initializeClock"]
+- !private ["Ps8Hashable", "scheduledTimer"]
+- !private ["Ps8Hashable", "second"]
+- !private ["Ps8Hashable", "string"]
+- !private ["Ps8Hashable", "text"]
+- !private ["Ps8Hashable", "updateLabel"]
+- ["Ps8Hashable", ""]
+- !private ["P10SwiftyJSON17JSONSubscriptType", "init"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["PSo8NSCoding", "Calendar"]
+- !private ["PSo8NSCoding", "Date"]
+- ["PSo8NSCoding", "DateFormatter"]
+- !private ["PSo8NSCoding", "TimeInterval"]
+- !private ["PSo8NSCoding", "Timer"]
+- !private ["PSo8NSCoding", "awakeFromNib"]
+- !private ["PSo8NSCoding", "create60SecsTimer"]
+- !private ["PSo8NSCoding", "dateFormat"]
+- !private ["PSo8NSCoding", "dateFormatter"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "initializeClock"]
+- !private ["PSo8NSCoding", "string"]
+- !private ["PSo8NSCoding", "text"]
+- !private ["PSo8NSCoding", "updateLabel"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "dateFormat"]
+- ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "string"]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["CSo8NSObject", "Calendar"]
+- !private ["CSo8NSObject", "Date"]
+- ["CSo8NSObject", "DateFormatter"]
+- !private ["CSo8NSObject", "TimeInterval"]
+- !private ["CSo8NSObject", "Timer"]
+- ["CSo8NSObject", "Void"]
+- ["CSo8NSObject", "awakeFromNib"]
+- ["CSo8NSObject", "create60SecsTimer"]
+- !private ["CSo8NSObject", "dateFormat"]
+- ["CSo8NSObject", "dateFormatter"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "initializeClock"]
+- !private ["CSo8NSObject", "scheduledTimer"]
+- !private ["CSo8NSObject", "string"]
+- !private ["CSo8NSObject", "text"]
+- ["CSo8NSObject", "updateLabel"]
+- !private ["PSo16NSObjectProtocol", "Calendar"]
+- !private ["PSo16NSObjectProtocol", "Date"]
+- ["PSo16NSObjectProtocol", "DateFormatter"]
+- !private ["PSo16NSObjectProtocol", "TimeInterval"]
+- !private ["PSo16NSObjectProtocol", "Timer"]
+- !private ["PSo16NSObjectProtocol", "awakeFromNib"]
+- !private ["PSo16NSObjectProtocol", "create60SecsTimer"]
+- !private ["PSo16NSObjectProtocol", "dateFormat"]
+- !private ["PSo16NSObjectProtocol", "dateFormatter"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "initializeClock"]
+- !private ["PSo16NSObjectProtocol", "scheduledTimer"]
+- !private ["PSo16NSObjectProtocol", "string"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- !private ["PSo16NSObjectProtocol", "updateLabel"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- !private ["P10Foundation20ReferenceConvertible", "component"]
+- !private ["P10Foundation20ReferenceConvertible", "current"]
+- !private ["P10Foundation20ReferenceConvertible", "init"]
+- !private ["Ps12SignedNumber", "init"]
+- !private ["Ps10Strideable", "init"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["CSo5Timer", "scheduledTimer"]
+- !private ["PSo29UIAccessibilityIdentification", "Calendar"]
+- !private ["PSo29UIAccessibilityIdentification", "Date"]
+- ["PSo29UIAccessibilityIdentification", "DateFormatter"]
+- !private ["PSo29UIAccessibilityIdentification", "TimeInterval"]
+- !private ["PSo29UIAccessibilityIdentification", "Timer"]
+- !private ["PSo29UIAccessibilityIdentification", "awakeFromNib"]
+- !private ["PSo29UIAccessibilityIdentification", "create60SecsTimer"]
+- !private ["PSo29UIAccessibilityIdentification", "dateFormatter"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "initializeClock"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- !private ["PSo29UIAccessibilityIdentification", "updateLabel"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- !private ["PSo12UIAppearance", "Calendar"]
+- !private ["PSo12UIAppearance", "Date"]
+- ["PSo12UIAppearance", "DateFormatter"]
+- !private ["PSo12UIAppearance", "TimeInterval"]
+- !private ["PSo12UIAppearance", "Timer"]
+- !private ["PSo12UIAppearance", "awakeFromNib"]
+- !private ["PSo12UIAppearance", "create60SecsTimer"]
+- !private ["PSo12UIAppearance", "dateFormatter"]
+- !private ["PSo12UIAppearance", "init"]
+- !private ["PSo12UIAppearance", "initializeClock"]
+- !private ["PSo12UIAppearance", "text"]
+- !private ["PSo12UIAppearance", "updateLabel"]
+- ["PSo12UIAppearance", ""]
+- !private ["PSo21UIAppearanceContainer", "Calendar"]
+- !private ["PSo21UIAppearanceContainer", "Date"]
+- ["PSo21UIAppearanceContainer", "DateFormatter"]
+- !private ["PSo21UIAppearanceContainer", "TimeInterval"]
+- !private ["PSo21UIAppearanceContainer", "Timer"]
+- !private ["PSo21UIAppearanceContainer", "awakeFromNib"]
+- !private ["PSo21UIAppearanceContainer", "create60SecsTimer"]
+- !private ["PSo21UIAppearanceContainer", "dateFormatter"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "initializeClock"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- !private ["PSo21UIAppearanceContainer", "updateLabel"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "Calendar"]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "Date"]
+- ["PSo30UIContentSizeCategoryAdjusting", "DateFormatter"]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "TimeInterval"]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "Timer"]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "awakeFromNib"]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "create60SecsTimer"]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "dateFormatter"]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "init"]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "initializeClock"]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "text"]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "updateLabel"]
+- ["PSo30UIContentSizeCategoryAdjusting", ""]
+- !private ["PSo17UICoordinateSpace", "Calendar"]
+- !private ["PSo17UICoordinateSpace", "Date"]
+- ["PSo17UICoordinateSpace", "DateFormatter"]
+- !private ["PSo17UICoordinateSpace", "TimeInterval"]
+- !private ["PSo17UICoordinateSpace", "Timer"]
+- !private ["PSo17UICoordinateSpace", "awakeFromNib"]
+- !private ["PSo17UICoordinateSpace", "create60SecsTimer"]
+- !private ["PSo17UICoordinateSpace", "dateFormatter"]
+- !private ["PSo17UICoordinateSpace", "init"]
+- !private ["PSo17UICoordinateSpace", "initializeClock"]
+- !private ["PSo17UICoordinateSpace", "text"]
+- !private ["PSo17UICoordinateSpace", "updateLabel"]
+- ["PSo17UICoordinateSpace", ""]
+- !private ["PSo13UIDynamicItem", "Calendar"]
+- !private ["PSo13UIDynamicItem", "Date"]
+- ["PSo13UIDynamicItem", "DateFormatter"]
+- !private ["PSo13UIDynamicItem", "TimeInterval"]
+- !private ["PSo13UIDynamicItem", "Timer"]
+- !private ["PSo13UIDynamicItem", "awakeFromNib"]
+- !private ["PSo13UIDynamicItem", "create60SecsTimer"]
+- !private ["PSo13UIDynamicItem", "dateFormatter"]
+- !private ["PSo13UIDynamicItem", "init"]
+- !private ["PSo13UIDynamicItem", "initializeClock"]
+- !private ["PSo13UIDynamicItem", "text"]
+- !private ["PSo13UIDynamicItem", "updateLabel"]
+- ["PSo13UIDynamicItem", ""]
+- !private ["PSo18UIFocusEnvironment", "Calendar"]
+- !private ["PSo18UIFocusEnvironment", "Date"]
+- ["PSo18UIFocusEnvironment", "DateFormatter"]
+- !private ["PSo18UIFocusEnvironment", "TimeInterval"]
+- !private ["PSo18UIFocusEnvironment", "Timer"]
+- !private ["PSo18UIFocusEnvironment", "awakeFromNib"]
+- !private ["PSo18UIFocusEnvironment", "create60SecsTimer"]
+- !private ["PSo18UIFocusEnvironment", "dateFormatter"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "initializeClock"]
+- !private ["PSo18UIFocusEnvironment", "text"]
+- !private ["PSo18UIFocusEnvironment", "updateLabel"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "Calendar"]
+- !private ["PSo11UIFocusItem", "Date"]
+- ["PSo11UIFocusItem", "DateFormatter"]
+- !private ["PSo11UIFocusItem", "TimeInterval"]
+- !private ["PSo11UIFocusItem", "Timer"]
+- !private ["PSo11UIFocusItem", "awakeFromNib"]
+- !private ["PSo11UIFocusItem", "create60SecsTimer"]
+- !private ["PSo11UIFocusItem", "dateFormatter"]
+- !private ["PSo11UIFocusItem", "init"]
+- !private ["PSo11UIFocusItem", "initializeClock"]
+- !private ["PSo11UIFocusItem", "text"]
+- !private ["PSo11UIFocusItem", "updateLabel"]
+- ["PSo11UIFocusItem", ""]
+- !private ["CSo7UILabel", "Calendar"]
+- !private ["CSo7UILabel", "Date"]
+- ["CSo7UILabel", "DateFormatter"]
+- !private ["CSo7UILabel", "TimeInterval"]
+- !private ["CSo7UILabel", "Timer"]
+- ["CSo7UILabel", "Void"]
+- ["CSo7UILabel", "awakeFromNib"]
+- ["CSo7UILabel", "create60SecsTimer"]
+- ["CSo7UILabel", "dateFormatter"]
+- ["CSo7UILabel", "init"]
+- ["CSo7UILabel", "initializeClock"]
+- !private ["CSo7UILabel", "text"]
+- ["CSo7UILabel", "updateLabel"]
+- ["CSo7UILabel", ""]
+- !private ["CSo11UIResponder", "Calendar"]
+- !private ["CSo11UIResponder", "Date"]
+- ["CSo11UIResponder", "DateFormatter"]
+- !private ["CSo11UIResponder", "TimeInterval"]
+- !private ["CSo11UIResponder", "Timer"]
+- ["CSo11UIResponder", "Void"]
+- ["CSo11UIResponder", "awakeFromNib"]
+- ["CSo11UIResponder", "create60SecsTimer"]
+- ["CSo11UIResponder", "dateFormatter"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "initializeClock"]
+- !private ["CSo11UIResponder", "text"]
+- ["CSo11UIResponder", "updateLabel"]
+- !private ["PSo30UIResponderStandardEditActions", "Calendar"]
+- !private ["PSo30UIResponderStandardEditActions", "Date"]
+- ["PSo30UIResponderStandardEditActions", "DateFormatter"]
+- !private ["PSo30UIResponderStandardEditActions", "TimeInterval"]
+- !private ["PSo30UIResponderStandardEditActions", "Timer"]
+- !private ["PSo30UIResponderStandardEditActions", "awakeFromNib"]
+- !private ["PSo30UIResponderStandardEditActions", "create60SecsTimer"]
+- !private ["PSo30UIResponderStandardEditActions", "dateFormatter"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "initializeClock"]
+- !private ["PSo30UIResponderStandardEditActions", "text"]
+- !private ["PSo30UIResponderStandardEditActions", "updateLabel"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["PSo18UITraitEnvironment", "Calendar"]
+- !private ["PSo18UITraitEnvironment", "Date"]
+- ["PSo18UITraitEnvironment", "DateFormatter"]
+- !private ["PSo18UITraitEnvironment", "TimeInterval"]
+- !private ["PSo18UITraitEnvironment", "Timer"]
+- !private ["PSo18UITraitEnvironment", "awakeFromNib"]
+- !private ["PSo18UITraitEnvironment", "create60SecsTimer"]
+- !private ["PSo18UITraitEnvironment", "dateFormatter"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "initializeClock"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- !private ["PSo18UITraitEnvironment", "updateLabel"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "Calendar"]
+- !private ["CSo6UIView", "Date"]
+- ["CSo6UIView", "DateFormatter"]
+- !private ["CSo6UIView", "TimeInterval"]
+- !private ["CSo6UIView", "Timer"]
+- ["CSo6UIView", "Void"]
+- ["CSo6UIView", "awakeFromNib"]
+- ["CSo6UIView", "create60SecsTimer"]
+- ["CSo6UIView", "dateFormatter"]
+- ["CSo6UIView", "init"]
+- ["CSo6UIView", "initializeClock"]
+- !private ["CSo6UIView", "text"]
+- ["CSo6UIView", "updateLabel"]
+- !private ["P9Alamofire14URLConvertible", "init"]
+- !private ["Ps15_CVarArgAligned", "init"]
+- !private ["Ps22_CVarArgPassedAsDouble", "init"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "Calendar"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "Date"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "DateFormatter"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "TimeInterval"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "Timer"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "awakeFromNib"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "create60SecsTimer"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "dateFormatter"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "init"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "initializeClock"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "text"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "updateLabel"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", ""]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps33_ExpressibleByBuiltinFloatLiteral", "init"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "Calendar"]
+- !private ["Ps9_Hashable", "Date"]
+- ["Ps9_Hashable", "DateFormatter"]
+- !private ["Ps9_Hashable", "TimeInterval"]
+- !private ["Ps9_Hashable", "Timer"]
+- !private ["Ps9_Hashable", "awakeFromNib"]
+- !private ["Ps9_Hashable", "component"]
+- !private ["Ps9_Hashable", "create60SecsTimer"]
+- !private ["Ps9_Hashable", "current"]
+- !private ["Ps9_Hashable", "dateFormat"]
+- !private ["Ps9_Hashable", "dateFormatter"]
+- ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "initializeClock"]
+- !private ["Ps9_Hashable", "scheduledTimer"]
+- !private ["Ps9_Hashable", "second"]
+- !private ["Ps9_Hashable", "string"]
+- !private ["Ps9_Hashable", "text"]
+- !private ["Ps9_Hashable", "updateLabel"]
+- ["Ps9_Hashable", ""]
+- !private ["P10Foundation14_MutableBoxing", "component"]
+- !private ["P10Foundation14_MutableBoxing", "current"]
+- !private ["Ps21_ObjectiveCBridgeable", "component"]
+- !private ["Ps21_ObjectiveCBridgeable", "current"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps11_Strideable", "init"]
+depends-nominal:
+- !private "Ps16AbsoluteValuable"
+- "Ps9AnyObject"
+- !private "Ps19BinaryFloatingPoint"
+- "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- !private "V10Foundation8Calendar"
+- "C5Trofi12ClockUILabel"
+- !private "Ps10Comparable"
+- !private "OV10Foundation8Calendar9Component"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- !private "V10Foundation4Date"
+- "CSo13DateFormatter"
+- !private "Sd"
+- "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps25ExpressibleByFloatLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "Ps13FloatingPoint"
+- "CSo9Formatter"
+- "Ps8Hashable"
+- !private "P10SwiftyJSON17JSONSubscriptType"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "P10Foundation20ReferenceConvertible"
+- !private "Ps12SignedNumber"
+- !private "Ps10Strideable"
+- !private "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- !private "CSo5Timer"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo30UIContentSizeCategoryAdjusting"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo11UIFocusItem"
+- "CSo7UILabel"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- !private "P9Alamofire14URLConvertible"
+- !private "Ps15_CVarArgAligned"
+- !private "Ps22_CVarArgPassedAsDouble"
+- "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps33_ExpressibleByBuiltinFloatLiteral"
+- !private "Ps35_ExpressibleByBuiltinIntegerLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps33_ExpressibleByStringInterpolation"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "P10Foundation14_MutableBoxing"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/MapKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreText.apinotesc"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/build/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/build/Build/Products/Debug-iphonesimulator/FoldingCell/FoldingCell.framework/Modules/FoldingCell.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/MapKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/build/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/build/Build/Products/Debug-iphonesimulator/FoldingCell/FoldingCell.framework/Headers/FoldingCell-umbrella.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/Firebase/Core/Sources/Firebase.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRActionCodeSettings.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/build/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/build/Build/Products/Debug-iphonesimulator/FoldingCell/FoldingCell.framework/Headers/FoldingCell-Swift.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageSwiftNameSupport.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRCoreSwiftNameSupport.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseSwiftNameSupport.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthSwiftNameSupport.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsSwiftNameSupport.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/dhrumilshah/Desktop/Trofi 2/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/build/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/build/Build/Products/Debug-iphonesimulator/FoldingCell/FoldingCell.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+interface-hash: "d16cbd81c6a56761d7980fa7413480ff"

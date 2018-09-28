@@ -1,0 +1,11 @@
+framework module RAMPaperSwitch {
+  umbrella header "RAMPaperSwitch-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module RAMPaperSwitch.Swift {
+    header "RAMPaperSwitch-Swift.h"
+    requires objc
+}

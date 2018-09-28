@@ -1,0 +1,10 @@
+framework module RAMPaperSwitch {
+  umbrella header "RAMPaperSwitch-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module RAMPaperSwitch.__Swift {
+    exclude header "RAMPaperSwitch-Swift.h"
+}

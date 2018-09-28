@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "aabfd705e4d8e7610472ea650a32b480"
+build_time: [556834828, 630515000]
+inputs:
+  "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/Alamofire/Source/AFError.swift": [556501180, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/Alamofire/Source/Alamofire.swift": [556501180, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [556501180, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/Alamofire/Source/MultipartFormData.swift": [556501180, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [556501180, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/Alamofire/Source/Notifications.swift": [556501180, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/Alamofire/Source/ParameterEncoding.swift": [556501180, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/Alamofire/Source/Request.swift": [556501180, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/Alamofire/Source/Response.swift": [556501180, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/Alamofire/Source/ResponseSerialization.swift": [556501180, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/Alamofire/Source/Result.swift": [556501180, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/Alamofire/Source/ServerTrustPolicy.swift": [556501180, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/Alamofire/Source/SessionDelegate.swift": [556501180, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/Alamofire/Source/SessionManager.swift": [556501180, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/Alamofire/Source/TaskDelegate.swift": [556501180, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/Alamofire/Source/Timeline.swift": [556501180, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/Alamofire/Source/Validation.swift": [556501180, 0]

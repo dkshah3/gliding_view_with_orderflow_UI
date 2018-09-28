@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "fb2fb19b2035da317d7d6053b77d0a60"
+build_time: [556834851, 763356000]
+inputs:
+  "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [556501343, 0]

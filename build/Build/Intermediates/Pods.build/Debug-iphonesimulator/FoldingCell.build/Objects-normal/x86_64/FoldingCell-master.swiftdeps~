@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "8f655958d16f368c95a6f21c9b6555e8"
+build_time: [556834834, 273394000]
+inputs:
+  "/Users/dhrumilshah/Desktop/Trofi Beta/Pods/FoldingCell/FoldingCell/FoldingCell/FoldingCell/FoldingCell.swift": [556828526, 0]
